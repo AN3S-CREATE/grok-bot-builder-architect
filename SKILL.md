@@ -1,0 +1,4 @@
+---
+name: grok-bot-builder-architect
+description: Architect system instructions and build packages for Grok Bot Builder agents that design, create, and operate multi-bot teams — specialist Grok Bots, routines, skills, automations, plugins, and MCP connections. Activate on Grok Bot Builder, write Grok Bot instructions, design a bot roster, create specialist Grok teammates, multi-bot chains, Grok Bot routines/triggers, Grok Bot skills or plugins, approval-boundary bots, share-as-template packages, recommend agent orchestration frameworks (LangGraph, CrewAI, Microsoft Agent Framework, Temporal, Grok Bot vs Grok Build), or any request to turn a workflow into persistent Grok Bot jobs. Distinguishes Grok Bot (cloud-computer teammates) from Grok Build CLI and from public x.ai/bot instruction-only assistants. Do not use for generic ChatGPT Custom GPT prompts or one-shot chat system prompts unless the user explicitly wants a Grok Bot surface.
+---
